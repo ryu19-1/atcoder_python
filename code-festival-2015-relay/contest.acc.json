@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": "code-festival-2015-relay",
+    "title": "CODE FESTIVAL2015チーム対抗早解きリレー",
+    "url": "https://atcoder.jp/contests/code-festival-2015-relay"
+  },
+  "tasks": [
+    {
+      "id": "cf_2015_relay_a",
+      "label": "A",
+      "title": "チーム分け",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_b",
+      "label": "B",
+      "title": "全完",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_c",
+      "label": "C",
+      "title": "円周率",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_d",
+      "label": "D",
+      "title": "ピザ",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_e",
+      "label": "E",
+      "title": "反転時計",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_f",
+      "label": "F",
+      "title": "グラフの個数",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_g",
+      "label": "G",
+      "title": "主菜と副菜",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_h",
+      "label": "H",
+      "title": "塗りつぶし",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_i",
+      "label": "I",
+      "title": "Platoon Match",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_i",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_relay_j",
+      "label": "J",
+      "title": "石山ゲーム",
+      "url": "https://atcoder.jp/contests/code-festival-2015-relay/tasks/cf_2015_relay_j",
+      "directory": {
+        "path": "j",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

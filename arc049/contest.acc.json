@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "arc049",
+    "title": "AtCoder Regular Contest 049",
+    "url": "https://atcoder.jp/contests/arc049"
+  },
+  "tasks": [
+    {
+      "id": "arc049_a",
+      "label": "A",
+      "title": "\"強調\"",
+      "url": "https://atcoder.jp/contests/arc049/tasks/arc049_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc049_b",
+      "label": "B",
+      "title": "高橋ノルム君",
+      "url": "https://atcoder.jp/contests/arc049/tasks/arc049_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc049_c",
+      "label": "C",
+      "title": "ぬりまーす",
+      "url": "https://atcoder.jp/contests/arc049/tasks/arc049_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "arc049_d",
+      "label": "D",
+      "title": "すわっぷしまーす",
+      "url": "https://atcoder.jp/contests/arc049/tasks/arc049_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

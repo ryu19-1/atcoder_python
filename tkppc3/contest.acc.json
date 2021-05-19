@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": "tkppc3",
+    "title": "技術室奥プログラミングコンテスト #3",
+    "url": "https://atcoder.jp/contests/tkppc3"
+  },
+  "tasks": [
+    {
+      "id": "tkppc3_a",
+      "label": "A",
+      "title": "時差",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_b",
+      "label": "B",
+      "title": "鰻と忖度",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_c",
+      "label": "C",
+      "title": "新入生歓迎数列 - Easy",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_d",
+      "label": "D",
+      "title": "巨大チェスボード",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_e",
+      "label": "E",
+      "title": "デフレゲーム",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_f",
+      "label": "F",
+      "title": "天使とふすま",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_g",
+      "label": "G",
+      "title": "パソコンの買い替え",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_h",
+      "label": "H",
+      "title": "新入生歓迎数列 - Hard",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_i",
+      "label": "I",
+      "title": "王国と M 種類の店",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_i",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "tkppc3_j",
+      "label": "J",
+      "title": "円の重なり",
+      "url": "https://atcoder.jp/contests/tkppc3/tasks/tkppc3_j",
+      "directory": {
+        "path": "j",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

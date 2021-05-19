@@ -1,0 +1,152 @@
+{
+  "contest": {
+    "id": "NYC2015",
+    "title": "New Year Contest 2015",
+    "url": "https://atcoder.jp/contests/NYC2015"
+  },
+  "tasks": [
+    {
+      "id": "nyc2015_1",
+      "label": "A",
+      "title": "2015",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_2",
+      "label": "B",
+      "title": "鏡餅",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_3",
+      "label": "C",
+      "title": "文字列の書き換え",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_4",
+      "label": "D",
+      "title": "ジャンプ",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_5",
+      "label": "E",
+      "title": "ひも",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_5",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_6",
+      "label": "F",
+      "title": "番号札",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_6",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_7",
+      "label": "G",
+      "title": "ロボット",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_7",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_8",
+      "label": "H",
+      "title": "空港",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_8",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_9",
+      "label": "I",
+      "title": "マージ",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_9",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_10",
+      "label": "J",
+      "title": "ランダムウォーク",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_10",
+      "directory": {
+        "path": "j",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_11",
+      "label": "K",
+      "title": "チーム戦",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_11",
+      "directory": {
+        "path": "k",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_12",
+      "label": "L",
+      "title": "机のしみ",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_12",
+      "directory": {
+        "path": "l",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "nyc2015_13",
+      "label": "M",
+      "title": "お絵かき",
+      "url": "https://atcoder.jp/contests/NYC2015/tasks/nyc2015_13",
+      "directory": {
+        "path": "m",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

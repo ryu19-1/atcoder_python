@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "bcu30",
+    "title": "BCU30 - Programming Battle",
+    "url": "https://atcoder.jp/contests/bcu30"
+  },
+  "tasks": [
+    {
+      "id": "bcu30_a",
+      "label": "A",
+      "title": "すごろく",
+      "url": "https://atcoder.jp/contests/bcu30/tasks/bcu30_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "bcu30_b",
+      "label": "B",
+      "title": "数字パズル",
+      "url": "https://atcoder.jp/contests/bcu30/tasks/bcu30_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "bcu30_c",
+      "label": "C",
+      "title": "クロスワード",
+      "url": "https://atcoder.jp/contests/bcu30/tasks/bcu30_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "bcu30_d",
+      "label": "D",
+      "title": "数直線",
+      "url": "https://atcoder.jp/contests/bcu30/tasks/bcu30_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "bcu30_e",
+      "label": "E",
+      "title": "スライドパズル",
+      "url": "https://atcoder.jp/contests/bcu30/tasks/bcu30_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "bcu30_f",
+      "label": "F",
+      "title": "数列と計算",
+      "url": "https://atcoder.jp/contests/bcu30/tasks/bcu30_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

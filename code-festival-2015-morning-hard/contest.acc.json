@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "code-festival-2015-morning-hard",
+    "title": "CODE FESTIVAL 2015 あさぷろ Hard",
+    "url": "https://atcoder.jp/contests/code-festival-2015-morning-hard"
+  },
+  "tasks": [
+    {
+      "id": "cf_2015_morning_hard_a",
+      "label": "A",
+      "title": "一次元オセロ",
+      "url": "https://atcoder.jp/contests/code-festival-2015-morning-hard/tasks/cf_2015_morning_hard_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_morning_hard_b",
+      "label": "B",
+      "title": "立方体とペンキ",
+      "url": "https://atcoder.jp/contests/code-festival-2015-morning-hard/tasks/cf_2015_morning_hard_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_morning_hard_c",
+      "label": "C",
+      "title": "数列の組み替え",
+      "url": "https://atcoder.jp/contests/code-festival-2015-morning-hard/tasks/cf_2015_morning_hard_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "cf_2015_morning_hard_h",
+      "label": "D",
+      "title": "ありんこ",
+      "url": "https://atcoder.jp/contests/code-festival-2015-morning-hard/tasks/cf_2015_morning_hard_h",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "discovery2016-final",
+    "title": "DISCO presents ディスカバリーチャンネル プログラミングコンテスト2016 本選",
+    "url": "https://atcoder.jp/contests/discovery2016-final"
+  },
+  "tasks": [
+    {
+      "id": "discovery_2016_final_a",
+      "label": "A",
+      "title": "DISCO presents ディスカバリーチャンネルプログラミングコンテスト 2016 Ⅱ",
+      "url": "https://atcoder.jp/contests/discovery2016-final/tasks/discovery_2016_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "discovery_2016_final_b",
+      "label": "B",
+      "title": "DDPC特別ビュッフェⅡ",
+      "url": "https://atcoder.jp/contests/discovery2016-final/tasks/discovery_2016_final_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "discovery_2016_final_c",
+      "label": "C",
+      "title": "特別講演「括弧列と塗り分け」",
+      "url": "https://atcoder.jp/contests/discovery2016-final/tasks/discovery_2016_final_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "discovery_2016_final_d",
+      "label": "D",
+      "title": "ディスコ社内ツアーⅡ",
+      "url": "https://atcoder.jp/contests/discovery2016-final/tasks/discovery_2016_final_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "discovery_2016_final_e",
+      "label": "E",
+      "title": "アメージングな二分探索木は、きみが作る！",
+      "url": "https://atcoder.jp/contests/discovery2016-final/tasks/discovery_2016_final_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
